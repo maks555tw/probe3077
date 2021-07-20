@@ -1,3 +1,2 @@
-changed 0
-changed 1
 master
+newbranch
